@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+  }
+  
+  .navbar {
+    background-color: #d6b0d3;
+    color: #e5bcf6;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar ul li {
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .homepage {
+    margin: 20px;
+  }
+  
+  .footer {
+    background-color: #8d5b84;
+    color: #afacf7;
+    padding: 10px 0;
+    position: fixed;
+  }
